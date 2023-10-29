@@ -21,7 +21,7 @@ Certifique-se de ter o Wireshark instalado no seu computador. Você pode fazer o
 - Determinar a versão do HTTP usada pelo navegador e pelo servidor.
 ![Captura de Tela Parte 1](Capturas de tela/parte1_1.png)
 - Identificar os idiomas que o navegador pode aceitar.
-![Captura de Tela Parte 1](screenshots/parte1_2.png)
+![Captura de Tela Parte 1](screenshots/parte1_1.png)
 - Encontrar os endereços IP do seu computador e do servidor.
 ![Captura de Tela Parte 1](screenshots/parte1_3.png)
 - Identificar a aplicação e versão usadas pelo servidor web.
