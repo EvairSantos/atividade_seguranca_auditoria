@@ -19,10 +19,12 @@ Certifique-se de ter o Wireshark instalado no seu computador. Você pode fazer o
 ### Parte 1 - Análise do Protocolo HTTP
 
 - Determinar a versão do HTTP usada pelo navegador e pelo servidor.
+![Captura de Tela Parte 1](screenshots/parte1.png)
 - Identificar os idiomas que o navegador pode aceitar.
+![Captura de Tela Parte 1](screenshots/parte1.png)
 - Encontrar os endereços IP do seu computador e do servidor.
+![Captura de Tela Parte 1](screenshots/parte1.png)
 - Identificar a aplicação e versão usadas pelo servidor web.
-
 ![Captura de Tela Parte 1](screenshots/parte1.png)
 
 ### Parte 2 - Análise do Protocolo TCP
