@@ -23,9 +23,9 @@ Certifique-se de ter o Wireshark instalado no seu computador. Você pode fazer o
 - Identificar os idiomas que o navegador pode aceitar.
 ![Captura de Tela Parte 1](parte1_1.png)
 - Encontrar os endereços IP do seu computador e do servidor.
-![Captura de Tela Parte 1](screenshots/parte1_3.png)
+![Captura de Tela Parte 1](Screenshots/parte1_3.png)
 - Identificar a aplicação e versão usadas pelo servidor web.
-![Captura de Tela Parte 1](screenshots/parte1_4.png)
+![Captura de Tela Parte 1](Screenshots/parte1_4.png)
 
 ### Parte 2 - Análise do Protocolo TCP
 
