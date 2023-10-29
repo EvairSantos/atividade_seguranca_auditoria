@@ -30,42 +30,42 @@ Certifique-se de ter o Wireshark instalado no seu computador. Você pode fazer o
 ### Parte 2 - Análise do Protocolo TCP
 
 - Encontrar as portas TCP usadas pelo cliente e pelo servidor.
-![Captura de Tela Parte 2](screenshots/parte2_1.png)
+![Captura de Tela Parte 2](Screenshots/parte2_1.png)
 - Identificar o pacote de segmento TCP SYN para iniciar a conexão.
-![Captura de Tela Parte 2](screenshots/parte2_2.png)
+![Captura de Tela Parte 2](Screenshots/parte2_2.png)
 - Identificar o tamanho da janela de controle de fluxo.
-![Captura de Tela Parte 2](screenshots/parte2_3.png)
+![Captura de Tela Parte 2](Screenshots/parte2_3.png)
 - Identificar o pacote de segmento TCP que encerra a conexão.
-![Captura de Tela Parte 2](screenshots/parte2_4.png)
+![Captura de Tela Parte 2](Screenshots/parte2_4.png)
 
 
 ### Parte 3 - Análise do Protocolo DNS
 
 - Identificar a mensagem de consulta DNS para obter o IP do host.
 
-![Captura de Tela Parte 3](screenshots/parte3_1.png)
+![Captura de Tela Parte 3](Screenshots/parte3_1.png)
 
 - Encontrar a porta destino usada para a consulta DNS.
 
-![Captura de Tela Parte 3](screenshots/parte3_2.png)
+![Captura de Tela Parte 3](Screenshots/parte3_2.png)
 
 - Identificar o endereço IP do servidor DNS usado para a resolução do endereço IP.
 
-![Captura de Tela Parte 3](screenshots/parte3_3.png)
+![Captura de Tela Parte 3](Screenshots/parte3_3.png)
 
 ### Parte 4 - Análise do Protocolo Ethernet
 
 - Encontrar o endereço MAC do seu computador.
 
-![Captura de Tela Parte 4](screenshots/parte4_1.png)
+![Captura de Tela Parte 4](Screenshots/parte4_1.png)
 
 - Identificar o endereço MAC do host `gaia.cs.umass.edu`.
 - Não consegui capiturar pacote devido o site está off
-![Captura de Tela Parte 4](screenshots/siteoff.png)
+![Captura de Tela Parte 4](Screenshots/siteoff.png)
 
 - Identificar o endereço MAC do host (exemplo de onde estaria o mac).
 
-![Captura de Tela Parte 4](screenshots/parte4_2.png)
+![Captura de Tela Parte 4](Screenshots/parte4_2.png)
 
 ## Conclusão
 
