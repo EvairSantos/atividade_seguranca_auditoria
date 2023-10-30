@@ -20,7 +20,7 @@ Certifique-se de ter o Wireshark instalado no seu computador. Você pode fazer o
 
 -  O seu navegador executa a versão 1.0 ou 1.1 do HTTP? Qual a versão do HTTP que está rodando no
 servidor?
-*Meu navegador executa a versão 1.1 do HTTP. A versão do HTTP rodando no servidor é 1.1.*
+/n/n*Meu navegador executa a versão 1.1 do HTTP. A versão do HTTP rodando no servidor é 1.1.*
 ![Captura de Tela Parte 1](Screenshots/parte1_1.png)
 - Quais linguagens (idiomas) o seu navegador indica que pode aceitar do servidor?
 ![Captura de Tela Parte 1](Screenshots/parte1_2.png)
