@@ -24,9 +24,10 @@ servidor?
 *Meu navegador executa a versão 1.1 do HTTP. A versão do HTTP rodando no servidor é 1.1.*
 ![Captura de Tela Parte 1](Screenshots/parte1_1.png)
 - Quais linguagens (idiomas) o seu navegador indica que pode aceitar do servidor?
+
 ![Captura de Tela Parte 1](Screenshots/parte1_2.png)
 - Qual o endereço IP do seu computador? E do servidor gaia.cs.umass.edu?
-- 
+
 *O endereço IP do meu computador é 192.168.0.107. O endereço IP do servidor gaia.cs.umass.edu é 128.119.245.12*
 ![Captura de Tela Parte 1](Screenshots/parte1_3.png)
 - Qual aplicação (e versão) é utilizada pelo servidor web gaia.cs.umass.edu?
@@ -50,6 +51,7 @@ da janela utilizada pelo TCP para o controle de fluxo? Qual é o tamanho da jane
 
 *O campo do segmento TCP que contém o tamanho da janela utilizada pelo TCP para o controle de fluxo é 64240*
 ![Captura de Tela Parte 2](Screenshots/parte2_3.png)
+
 -  Identifique, abra e mostre o pacote do segmento TCP responsável pelo término da conexão. Qual é
 a flag que o TCP usa para encerrar a conexão?
 
