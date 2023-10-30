@@ -18,48 +18,54 @@ Certifique-se de ter o Wireshark instalado no seu computador. Você pode fazer o
 
 ### Parte 1 - Análise do Protocolo HTTP
 
-- Determinar a versão do HTTP usada pelo navegador e pelo servidor.
+-  O seu navegador executa a versão 1.0 ou 1.1 do HTTP? Qual a versão do HTTP que está rodando no
+servidor?
 ![Captura de Tela Parte 1](Screenshots/parte1_1.png)
-- Identificar os idiomas que o navegador pode aceitar.
+- Quais linguagens (idiomas) o seu navegador indica que pode aceitar do servidor?
 ![Captura de Tela Parte 1](Screenshots/parte1_2.png)
-- Encontrar os endereços IP do seu computador e do servidor.
+- Qual o endereço IP do seu computador? E do servidor gaia.cs.umass.edu?
 ![Captura de Tela Parte 1](Screenshots/parte1_3.png)
-- Identificar a aplicação e versão usadas pelo servidor web.
+- Qual aplicação (e versão) é utilizada pelo servidor web gaia.cs.umass.edu?
 ![Captura de Tela Parte 1](Screenshots/parte1_4.png)
 
 ### Parte 2 - Análise do Protocolo TCP
 
-- Encontrar as portas TCP usadas pelo cliente e pelo servidor.
+- Qual é o número da porta TCP usada pelo seu computador cliente (source) para requisitar o arquivo
+html para gaia.cs.umass.edu? E qual o número de porta TCP que o servidor gaia está usando para receber e enviar
+essas respostas?
 ![Captura de Tela Parte 2](Screenshots/parte2_1.png)
-- Identificar o pacote de segmento TCP SYN para iniciar a conexão.
+- Mostre e comente o pacote que contém o segmento TCP SYN que caracteriza o início de uma
+conexão TCP (estabelecimento inicial de conexão - three way handshake) entre o computador cliente e o
+gaia.cs.umass.edu?
 ![Captura de Tela Parte 2](Screenshots/parte2_2.png)
-- Identificar o tamanho da janela de controle de fluxo.
+- Após responder à questão 2.2 mostre e comente o campo do segmento TCP que contém o tamanho
+da janela utilizada pelo TCP para o controle de fluxo? Qual é o tamanho da janela em bytes?
 ![Captura de Tela Parte 2](Screenshots/parte2_3.png)
-- Identificar o pacote de segmento TCP que encerra a conexão.
+-  Identifique, abra e mostre o pacote do segmento TCP responsável pelo término da conexão. Qual é
+a flag que o TCP usa para encerrar a conexão? 
 ![Captura de Tela Parte 2](Screenshots/parte2_4.png)
 
 
 ### Parte 3 - Análise do Protocolo DNS
 
-- Identificar a mensagem de consulta DNS para obter o IP do host.
-
+- Identifique e comente a mensagem de consulta ao DNS para descobrir o IP do host
+‘gaia.cs.umass.edu’. Qual foi o protocolo da camada de transporte utilizado?
 ![Captura de Tela Parte 3](Screenshots/parte3_1.png)
 
-- Encontrar a porta destino usada para a consulta DNS.
+-  Após responder à questão 3.1 identifique e comente a porta destino usada para a consulta DNS?
 
 ![Captura de Tela Parte 3](Screenshots/parte3_2.png)
 
-- Identificar o endereço IP do servidor DNS usado para a resolução do endereço IP.
-
+- Qual é o endereço IP do servidor de DNS que foi usado para a resolução do endereço IP do host
+‘gaia.cs.umass.edu’?
 ![Captura de Tela Parte 3](Screenshots/parte3_3.png)
 
 ### Parte 4 - Análise do Protocolo Ethernet
 
-- Encontrar o endereço MAC do seu computador.
-
+- Após responder à questão 3.3, identifique e comente sobre o endereço MAC do seu computador?
 ![Captura de Tela Parte 4](Screenshots/parte4_1.png)
 
-- Identificar o endereço MAC do host `gaia.cs.umass.edu`.
+- Qual é o endereço MAC do host `gaia.cs.umass.edu`? Justifique e fundamente a sua resposta.
 
 ![Captura de Tela Parte 4](Screenshots/parte4_2.png)
 
