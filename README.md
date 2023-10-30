@@ -31,6 +31,7 @@ servidor?
 *O endereço IP do meu computador é 192.168.0.107. O endereço IP do servidor gaia.cs.umass.edu é 128.119.245.12*
 ![Captura de Tela Parte 1](Screenshots/parte1_3.png)
 - Qual aplicação (e versão) é utilizada pelo servidor web gaia.cs.umass.edu?
+
 ![Captura de Tela Parte 1](Screenshots/parte1_4.png)
 
 ### Parte 2 - Análise do Protocolo TCP
@@ -45,6 +46,7 @@ essas respostas?
 - Mostre e comente o pacote que contém o segmento TCP SYN que caracteriza o início de uma
 conexão TCP (estabelecimento inicial de conexão - three way handshake) entre o computador cliente e o
 gaia.cs.umass.edu?
+
 ![Captura de Tela Parte 2](Screenshots/parte2_2.png)
 - Após responder à questão 2.2 mostre e comente o campo do segmento TCP que contém o tamanho
 da janela utilizada pelo TCP para o controle de fluxo? Qual é o tamanho da janela em bytes?
