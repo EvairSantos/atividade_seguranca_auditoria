@@ -1,38 +1,21 @@
+```html
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-  /* Estilize o título em azul claro */
-  .titulo {
-    color: #00aaff; /* Cor azul claro */
-    font-size: 24px;
-    font-weight: bold;
-  }
-  /* Estilize os botões */
-  .botao {
-    background-color: #00aaff; /* Cor de fundo azul claro */
-    color: white; /* Cor do texto branco */
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 10px;
-    cursor: pointer;
-  }
-</style>
+  <style>
+    .blinking-text {
+      animation: blinking 1s infinite;
+    }
+    
+    @keyframes blinking {
+      0% { color: #87CEEB; }
+      50% { color: transparent; }
+      100% { color: #87CEEB; }
+    }
+  </style>
 </head>
 <body>
-  <!-- Título em azul claro -->
-  <h1 class="titulo">Trabalho Prático com Wireshark</h1>
-
-  <!-- Botão para o LinkedIn -->
-  <a href="https://www.linkedin.com/seuperfil" class="botao" target="_blank">LinkedIn</a>
-
-  <!-- Botão para o site -->
-  <a href="https://www.seusite.com" class="botao" target="_blank">Site</a>
+  <h1 class="blinking-text">Trabalho Prático com Wireshark</h1>
 </body>
 </html>
 
