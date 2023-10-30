@@ -46,6 +46,7 @@ essas respostas?
 - Mostre e comente o pacote que contém o segmento TCP SYN que caracteriza o início de uma
 conexão TCP (estabelecimento inicial de conexão - three way handshake) entre o computador cliente e o
 gaia.cs.umass.edu?
+*O pacote que caracteriza o início da conexão TCP no "three-way handshake" tem a flag SYN definida como "1" no campo de controle do TCP. Esse é o primeiro pacote enviado pelo cliente para iniciar a conexão.*
 
 ![Captura de Tela Parte 2](Screenshots/parte2_2.png)
 - Após responder à questão 2.2 mostre e comente o campo do segmento TCP que contém o tamanho
