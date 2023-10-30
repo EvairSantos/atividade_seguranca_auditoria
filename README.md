@@ -60,10 +60,6 @@ Certifique-se de ter o Wireshark instalado no seu computador. Você pode fazer o
 ![Captura de Tela Parte 4](Screenshots/parte4_1.png)
 
 - Identificar o endereço MAC do host `gaia.cs.umass.edu`.
-- Não consegui capiturar pacote devido o site está off
-![Captura de Tela Parte 4](Screenshots/siteoff.png)
-
-- Identificar o endereço MAC do host (exemplo de onde estaria o mac).
 
 ![Captura de Tela Parte 4](Screenshots/parte4_2.png)
 
