@@ -1,23 +1,4 @@
-```html
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    .blinking-text {
-      animation: blinking 1s infinite;
-    }
-    
-    @keyframes blinking {
-      0% { color: #87CEEB; }
-      50% { color: transparent; }
-      100% { color: #87CEEB; }
-    }
-  </style>
-</head>
-<body>
-  <h1 class="blinking-text">Trabalho Prático com Wireshark</h1>
-</body>
-</html>
+# Trabalho Prático com Wireshark
 
 Este repositório contém um trabalho prático que envolve a utilização do software Wireshark para analisar protocolos de rede em diferentes camadas. O trabalho está dividido em quatro partes, e para cada parte, você encontrará instruções e questões específicas que precisam ser respondidas com base na captura de pacotes.
 
