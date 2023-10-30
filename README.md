@@ -61,7 +61,7 @@ Certifique-se de ter o Wireshark instalado no seu computador. Você pode fazer o
 
 - Identificar o endereço MAC do host `gaia.cs.umass.edu`.
 
-![Captura de Tela Parte 4](Screenshots/parte4_2.png)
+![Captura de Tela Parte 4](Screenshots/parte4_0.png)
 
 ## Conclusão
 
