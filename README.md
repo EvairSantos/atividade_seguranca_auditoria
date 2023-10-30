@@ -4,7 +4,7 @@ Este repositório contém um trabalho prático que envolve a utilização do sof
 
 ## Pré-requisitos
 
-Certifique-se de ter o Wireshark instalado no seu computador. Você pode fazer o download do Wireshark em [https://www.wireshark.org/download.html](https://www.wireshark.org/download.html).
+Certifique-se de ter o Wireshark instalado no seu computador. Você pode fazer o download do Wireshark em [Dowload_Wireshark](https://www.wireshark.org/download.html).
 
 ## Instruções Gerais
 
@@ -20,6 +20,7 @@ Certifique-se de ter o Wireshark instalado no seu computador. Você pode fazer o
 
 -  O seu navegador executa a versão 1.0 ou 1.1 do HTTP? Qual a versão do HTTP que está rodando no
 servidor?
+Meu navegador executa a versão 1.1 do HTTP. A versão do HTTP rodando no servidor é 1.1.
 ![Captura de Tela Parte 1](Screenshots/parte1_1.png)
 - Quais linguagens (idiomas) o seu navegador indica que pode aceitar do servidor?
 ![Captura de Tela Parte 1](Screenshots/parte1_2.png)
